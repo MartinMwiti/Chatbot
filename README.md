@@ -16,8 +16,6 @@
 
 * They are based on seq 2 seq neural networks. It is the same idea as machine translation. In machine translation, we translate the source code from one language to another language but here, we are going to transform input into an output. It needs a large amount of data and it is based on Deep Neural networks.
 
-## NB: I'll create a retrieval based chatbot using NLTK, Keras, Python, etc.
-
 ---
 ## Dependencies for this project
 #### !pip install tensorflow, keras, pickle, nltk
