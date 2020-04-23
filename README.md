@@ -18,4 +18,4 @@
 
 ---
 ## Dependencies for this project
-#### !pip install tensorflow, keras, pickle, nltk
+```pip install tensorflow, keras, pickle, nltk```
