@@ -1,12 +1,12 @@
 # Chatbot
 
-## What is Chatbot? 
+### What is Chatbot? 
 
 * A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone.
 
 ---
 
-* #### There are two basic types of chatbot models based on how they are built; Retrieval based and Generative based models.
+#### There are two basic types of chatbot models based on how they are built; Retrieval based and Generative based models.
 
 ## 1. Retrieval based Chatbots
 * A retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of heuristic approach to select the appropriate response.
