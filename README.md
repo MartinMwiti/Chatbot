@@ -7,7 +7,7 @@
 ---
 
 * There are two basic types of chatbot models based on how they are built; 
-    - ``Retrieval based`` 
+    + ``Retrieval based`` 
     - ``Generative based models``
 
 ## 1. Retrieval based Chatbots
